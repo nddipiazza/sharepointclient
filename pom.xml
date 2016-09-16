@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microsoft</groupId>
   <artifactId>sharepointclient</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <properties>
     <axis2.version>1.6.4</axis2.version>
     <maven.compiler.source>1.8</maven.compiler.source>
