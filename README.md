@@ -5,7 +5,7 @@ This maven project creates web service stubs for sharepoint 2010 in axis2.
 
 Uses axis2 wsdl 2 code to generate the stubs.
 
-Also contains a utility method for calling NTLM using JCIS
+Also contains a utility method for calling NTLM using jcifs
 
 Web Services:
 
